@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+}
+.header-container {
+  height: 450px;
+  background-image: url('../images/apple-pie.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.header-title {
+  font-size: 70px;
+  color: white;
+  text-align: center;
+  line-height: 450px;
+}
+.desc-container {
+  margin: 5% 10% 2% 10%;
+  border-bottom: 2px solid #dcd7dd;
+}
+.info-recipe {
+  text-align: center;
+}
